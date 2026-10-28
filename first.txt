@@ -1,0 +1,15 @@
+MY GIT LEARNING NOTES
+
+Day 1: Git Basics
+
+Git is a version control system.
+
+A repository stores project history.
+
+git init creates a new repository.
+
+git status shows the current status.
+
+git add stages file changes.
+
+git commit saves changes in Git history.
