@@ -13,3 +13,6 @@ git status shows the current status.
 git add stages file changes.
 
 git commit saves changes in Git history.
+ 
+
+I have completed my SSC&HSC Exam
