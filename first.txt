@@ -18,3 +18,5 @@ git commit saves changes in Git history.
 I have completed my SSC in 2024
 i have to practice English everyday
 I have passed my diploma 
+
+logo alignment issue
